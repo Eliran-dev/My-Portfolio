@@ -6,6 +6,7 @@
 .pnp.js
 /functions/indtex
 /functions/.env
+*env
 # testing
 /coverage
 
