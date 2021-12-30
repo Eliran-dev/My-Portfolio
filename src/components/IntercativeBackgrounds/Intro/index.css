@@ -1,0 +1,32 @@
+
+.h1h1 {
+bottom: 0;
+}
+
+.canvasContainer {
+    height: 100vh;
+    position: relative;
+
+}
+
+
+
+.canvas {
+position: absolute;
+top: 50%;
+}
+
+
+.h1hh1 {
+    position: absolute;
+    margin-left: 50%;
+    top: 40%;
+}
+
+.touringLabel {
+    position: absolute;
+    margin-left: 45%;
+    top: 50%;
+    size: 2rem;
+    color: azure;
+}

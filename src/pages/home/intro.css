@@ -1,0 +1,45 @@
+.intro__title-word {
+    position: relative;
+    display: flex;
+    align-items: center;
+    line-height: 1;
+    font-size: 1rem;
+}
+
+.intro__title-row {
+    font-size: 1rem;
+}
+
+.introCanvas {
+    top: 0;
+    height: 100vh;
+}
+Section {
+    text-align: center;
+    width:100%;
+}
+.text {
+}
+.name {
+
+}
+
+/* 
+.intro {
+    height: 100vh;
+} */
+
+.Typewriter {
+    margin: 25% 35%;
+    font-size: 2em;
+    line-height: 2rem;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+    .Typewriter {
+        margin: 25% 5%;
+        font-size: 1em;
+        }
+  }

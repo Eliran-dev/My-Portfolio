@@ -1,0 +1,26 @@
+.formkindle {
+    text-align: center;
+    margin: 0 auto;
+    width: 30%;
+    align-content: center;
+    border-style: solid;
+
+}
+
+.kindleMailer_header {
+    text-align: center;
+    align-content: center;
+    margin: 10% 8% auto auto;
+
+
+}
+.form {
+    margin: auto 0;
+}
+
+.view360Iframe {
+    height: 100%;
+    position: relative; 
+    float: left; 
+    clear: both; 
+    width: 100%; }

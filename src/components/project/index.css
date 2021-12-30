@@ -1,0 +1,61 @@
+
+.project {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    display: block;
+
+}
+.Smart-door {
+    width: 40%;
+    height: 75%;
+}
+.titleName {
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.project img {
+    margin: auto;
+    width: 75%;
+    border: 1px solid;
+    box-shadow: 5px 10px 8px #888888;
+  }
+
+  .languages {
+      margin: 10% 0;
+  }
+
+  @media (max-width: 1200px) {
+      .svg-class {
+          width: 40%;
+      }
+
+  }
+  @media (max-width: 800px) {
+
+    .project {
+        width: 100%;
+    flex-flow: column wrap;
+    justify-content: center;
+   }
+   img {
+       width: 80%;
+   }
+
+}
+@media (max-width: 600px) {
+
+.svg-class {
+    width: 18px;
+    margin-top: 10px;
+}
+}
+.languages {
+    justify-content: space-between;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    max-width: 100vh;
+
+  }

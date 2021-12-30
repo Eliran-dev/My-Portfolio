@@ -1,0 +1,40 @@
+.contact {
+    margin-top: 20%;
+    text-align: center;
+    margin: 20% auto 0 auto;
+    
+
+}
+
+
+.contact__form {
+max-width: 70%;
+margin: auto;
+
+    
+}
+
+.submitButton {
+    margin-top: 1rem;
+
+}
+
+.submitButton:hover {
+    opacity: 0.7;
+    background-color: rgb(223, 213, 213);
+    transition: background-color 500ms;
+}
+@media (max-width: 600px) {
+    .contact {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .contact__form {
+
+
+        margin-left: 0%;
+        max-width: 100%;
+    
+        
+    }
+}
